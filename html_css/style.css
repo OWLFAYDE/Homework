@@ -1,0 +1,59 @@
+header {
+  text-align: center;
+  padding: 30px 30px;
+}
+footer {
+  text-align: center;
+  padding: 0 30px;
+}
+.card_grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.card {
+  display: inline-block;
+  vertical-align: top;
+  width: 160px;
+  height: 180px;
+  background-color: rgb(233, 228, 228);
+  border: 1px solid #cccccc;
+  border-radius: 28px;
+  text-align: center;
+  padding: 25px 15px 15px 15px;
+  box-sizing: border-box;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.card_icon {
+  width: 70px;
+  height: auto;
+  display: block;
+  margin: 0 auto 15px;
+}
+.card_title {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #000000;
+  font-size: 16px;
+}
+.menu {
+  width: 330px;
+  background-color: #777777;
+}
+.menu_item {
+  height: 100px;
+  padding-left: 35px;
+  box-sizing: border-box;
+  color: white;
+  font-size: 20px;
+  line-height: 100px;
+}
+.icon {
+  display: inline-block;
+  width: 70px;
+  font-size: 30px;
+}
+.menu_item:hover {
+  background-color: #555555;
+}
