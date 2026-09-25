@@ -1,0 +1,73 @@
+header {
+  background: #171d25;
+  padding-left: 120px;
+  padding-top: 30px;
+  box-sizing: border-box;
+}
+.logo {
+  width: 130px;
+  vertical-align: middle;
+}
+.menu {
+  display: inline-block;
+  margin-left: 40px;
+  position: relative;
+  min-height: 50px;
+  font-family: "Motiva Sans", Sans-serif;
+}
+.menu span {
+  margin-right: 30px;
+  color: white;
+  display: inline-block;
+}
+.right_menu {
+  display: inline-block;
+  margin-left: 50px;
+  vertical-align: middle;
+  color: white;
+  position: absolute;
+  right: 20px;
+  top: 15px;
+}
+.right_menu span {
+  margin-right: 15px;
+  font-size: 12px;
+  height: 60px;
+}
+.navigation {
+  height: 60px;
+  background-color: #1b2838;
+  padding-left: 120px;
+  padding-top: 20px;
+  box-sizing: border-box;
+}
+.navigation span {
+  margin-right: 30px;
+  font-size: 14px;
+}
+.navigation input {
+  width: 350px;
+  height: 25px;
+  margin-left: 80px;
+  box-sizing: border-box;
+  background-color: #d6d7d8;
+  border: 2px solid #666;
+  padding-left: 10px;
+}
+.install {
+  background-color: #75b900;
+  padding: 8px 12px;
+  margin-right: 10px;
+}
+.bottom_menu b {
+  font-size: 12px;
+  margin-left: 4px;
+  font-weight: normal;
+  margin-right: 20px;
+}
+.bottom_menu span {
+  margin-right: 25px;
+  color: white;
+  font-size: 14px;
+  font-weight: normal;
+}
